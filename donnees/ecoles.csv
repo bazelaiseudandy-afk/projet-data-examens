@@ -1,0 +1,25 @@
+code_ecole,ecole,commune,secteur
+E01,Lycée Soleil Levant,Port-au-Prince,Public
+E02,Collège Les Palmistes,Port-au-Prince,Privé
+E03,Institution Bon Berger,Port-au-Prince,Congréganiste
+E04,Lycée de la Ravine,Delmas,Public
+E05,Collège Horizon,Delmas,Privé
+E06,Lycée Mer Bleue,Carrefour,Public
+E07,Collège Étoile du Sud,Carrefour,Privé
+E08,Institution Sainte-Claire,Pétion-Ville,Congréganiste
+E09,Collège Morne Calvaire,Pétion-Ville,Privé
+E10,Lycée de la Citadelle,Cap-Haïtien,Public
+E11,Collège Bord de Mer,Cap-Haïtien,Privé
+E12,Lycée des Salines,Gonaïves,Public
+E13,Institution Notre-Dame des Champs,Gonaïves,Congréganiste
+E14,Lycée de la Plaine,Saint-Marc,Public
+E15,Collège Arc-en-Ciel,Saint-Marc,Privé
+E16,Lycée Côte Sud,Les Cayes,Public
+E17,Collège Pointe à Raquette,Les Cayes,Privé
+E18,Lycée des Orchidées,Jacmel,Public
+E19,Institution Saint-Michel,Jacmel,Congréganiste
+E20,Lycée du Plateau,Hinche,Public
+E21,Collège Les Manguiers,Hinche,Privé
+E22,Lycée de la Grand'Anse,Jérémie,Public
+E23,Lycée des Trois Rivières,Port-de-Paix,Public
+E24,Collège La Tortue,Port-de-Paix,Privé
