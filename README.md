@@ -2,7 +2,7 @@
 
 **Lien du tableau de bord :** (à coller ici une fois en ligne)
 
-**Équipe de 5. Rendu le vendredi 6 novembre à 23 h 59. Soutenances les samedi 7 et dimanche 8 novembre.**
+**Équipe de 5, formée avant le jeudi 5 novembre à 23 h 59. Rendu le dimanche 8 novembre à 23 h 59. Soutenances du lundi 9 au vendredi 13 novembre.**
 
 Un réseau de 25 écoles (fictives) vous confie les résultats de ses candidats aux examens de fin d'études secondaires, en 2024 et 2025. Le fichier sort tel quel du secrétariat. Le directeur veut savoir quelles filières, quels secteurs et quelles communes réussissent, et lesquelles décrochent. Un candidat réussit avec une moyenne d'au moins 10 sur 20.
 
@@ -17,7 +17,7 @@ Un réseau de 25 écoles (fictives) vous confie les résultats de ses candidats 
 1. **`exploration.ipynb`** : toute votre démarche, exécutée, avec ses sorties et ses graphiques : diagnostic, nettoyage, jointures (qui écrivent `donnees/resultats_propre.csv`), puis une partie par question. C'est le plan de l'exercice sur l'électricité. Des contrôles chiffrés vous disent si votre nettoyage est juste.
 2. **`app.py`** : le tableau de bord Streamlit, **en ligne**, présenté au décideur. Il lit `donnees/resultats_propre.csv` et ne refait pas le nettoyage.
 3. **`equipe.md`** : qui a fait quoi, et le lien du tableau de bord.
-4. **Une soutenance**, les samedi 7 et dimanche 8 novembre, après le rendu : présentation de 5 minutes avec le tableau de bord en ligne, puis deux questions individuelles par étudiant.
+4. **Une soutenance**, du lundi 9 au vendredi 13 novembre, sur un créneau choisi par l'équipe avec le formulaire Classmoji du module 05 : présentation de 5 minutes avec le tableau de bord en ligne, puis deux questions individuelles par étudiant.
 
 ### Les questions
 
