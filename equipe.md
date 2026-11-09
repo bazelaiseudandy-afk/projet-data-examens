@@ -4,7 +4,7 @@
 
 | Membre | Identifiant GitHub | Rôle principal |
 |---|---|---|
-|  |  |  |
+|Bazelais Eudes-Andy  | bazelaiseudandy-afk|le diagnostic, nettoyage, jointure  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
